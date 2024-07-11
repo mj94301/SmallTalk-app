@@ -1,5 +1,5 @@
 // Define your API key and the city name
-const apiKey = '080b6d3153f1b638ac3228c8be60bd31';
+const apiKey = 'placeholder';
 const cityName = 'Portland, Oregon';
 
 // API endpoint with city name and API key
